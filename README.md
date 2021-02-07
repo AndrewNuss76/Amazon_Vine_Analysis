@@ -13,7 +13,7 @@ Based on the analysis, we can determine the following:
 - Given the above, the % of Paid vs unpaid was: .156% Paid & 99.84% Unpaid 
 
 
-Summary:
+## Summary:
 Based on the analysis, there is absolutely no bias with paid 5 star vine reviews since it is an extremely small percentange of 5 star reviews. Based on the data, a separate analysis we could evaluate would be to evaluate the free text of the reviews using ML or NLP to determine what people may tend to say to generate a 5 star review. We could possibly predict key phrases/words that can obtain a 5 star review
 
 
